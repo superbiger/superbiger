@@ -6,5 +6,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Swift UI**, **TypeScript** and **Golang**
 - 📫 How to reach me: [here](https://twitter.com/_superbiger_)
 
-万物皆虚，万法皆允，萌即是正义！
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=superbiger)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superbiger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
